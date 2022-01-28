@@ -1,3 +1,3 @@
-# Website Source for thedivtagguy.com
+# Barebones Starter for any microsite project
 
-Work in progress, porting [thedivtagguy.com](http://thedivtagguy.com) from Hugo to Svelte.
+For [thedivtagguy.com](http://thedivtagguy.com).
