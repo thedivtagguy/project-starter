@@ -1,5 +1,4 @@
 <script>
-import timelines from "$data/logs/timeline.json";
 import Header from "./Header.svelte";
 </script>
 
